@@ -1,0 +1,44 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+
+ .main {
+     background-color: darkgoldenrod;
+     text-align: center;
+     height: 50px;
+     border-style: dotted;
+    
+ }
+
+ .unique {
+     font-size: xx-large;
+     width: 100%;
+     padding: 10px;
+ }
+
+ a:hover {
+     background-color: rgb(4, 210, 182);
+     transition: 2s;
+
+
+ }
+
+ img {
+     margin-left: 35%;
+     padding-top: 10%;
+     align-items: center;
+ }
+
+ a {
+     margin-right: 30px;
+     font-size: 40px;
+     text-decoration: none;
+     border: 1px solid black;
+     border-radius: 20px;
+ }
+
+ body {
+     background-color: lightcoral
+ }
